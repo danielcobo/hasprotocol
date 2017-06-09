@@ -1,0 +1,24 @@
+{
+  "name": "hasprotocol",
+  "version": "1.0.0",
+  "description": "Returns true/false if string starts protocol such as http://",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielcobo/hasprotocol.git"
+  },
+  "keywords": [
+    "protocol",
+    "string",
+    "regex"
+  ],
+  "author": "TidySource (Daniel Cobo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielcobo/hasprotocol/issues"
+  },
+  "homepage": "https://github.com/danielcobo/hasprotocol#readme"
+}
