@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/danielcobo/hasprotocol/issues"
   },
-  "homepage": "https://github.com/danielcobo/hasprotocol#readme"
+  "homepage": "https://github.com/danielcobo/hasprotocol#readme",
+  "devDependencies": {
+    "tidytest": "^1.0.1"
+  }
 }
