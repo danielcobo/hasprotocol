@@ -23,5 +23,8 @@
   "homepage": "https://github.com/danielcobo/hasprotocol#readme",
   "devDependencies": {
     "tidytest": "^1.0.1"
+  },
+  "dependencies": {
+    "tidyval": "^1.0.2"
   }
 }
