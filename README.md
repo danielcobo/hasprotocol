@@ -21,5 +21,9 @@ hasProtocol('file:///') //true
 hasProtocol('file:///') //true
 hasProtocol('helloworldfile:///') //false
 
-//Note: file:// will return true as well
+/*
+Notes
+=====
+file:// will return true as well
+*/
 ```
