@@ -1,7 +1,7 @@
 /**
  * Returns true/false if string starts with
- * 'http', 'https', 'localhost' or 'file',
- * followed by ':' and two or three '/'
+ * `http`, `https`, `localhost` or `file`,
+ * followed by `:` and two or three `/`
  * @public
  * @param {string} str - input string
  * @returns {boolean} - true/false if input string has protocol
